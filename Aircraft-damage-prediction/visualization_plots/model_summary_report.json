@@ -1,0 +1,75 @@
+{
+  "Model Performance Summary": {
+    "Best Model": "Gradient Boosting",
+    "Final Accuracy": 1.0,
+    "Final F1 Score": 1.0,
+    "Test Set Size": 17778,
+    "Number of Features": 31,
+    "Number of Classes": 4
+  },
+  "All Models Comparison": {
+    "Random Forest": {
+      "Accuracy": 0.9987062661716729,
+      "F1 Score": 0.9986989539548621,
+      "CV Mean": 0.9991140634879739,
+      "CV Std": 0.00034617568890848744
+    },
+    "Gradient Boosting": {
+      "Accuracy": 1.0,
+      "F1 Score": 1.0,
+      "CV Mean": 1.0,
+      "CV Std": 0.0
+    },
+    "Logistic Regression": {
+      "Accuracy": 0.9856564292946338,
+      "F1 Score": 0.984969161935673,
+      "CV Mean": 0.9844890445797312,
+      "CV Std": 0.000629686377128831
+    },
+    "SVM": {
+      "Accuracy": 0.9980875239059511,
+      "F1 Score": 0.9980799111519438,
+      "CV Mean": 0.9982281111562532,
+      "CV Std": 0.0005614725104878116
+    }
+  },
+  "Classification Report": {
+    "Destroyed": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3725.0
+    },
+    "Minor": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 561.0
+    },
+    "Substantial": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 12830.0
+    },
+    "Unknown": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 662.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 17778.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 17778.0
+    }
+  }
+}
