@@ -138,7 +138,7 @@ print(predictions)
 ## 🤝 Team & Hackathon Context
 This project was developed as part of a hackathon focused on Aviation Data Science Applications, emphasizing safety prediction and decision-making support in the aerospace domain.
 
-- 👨‍💻 Built by:
+### 👨‍💻 Built by:
 --Ansh Kumar Prasad — anshprasad489@gmail.com
 
 --Kumar Ankur — ankurkumarloh0909@gmail.com
