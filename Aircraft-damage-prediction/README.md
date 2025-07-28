@@ -149,13 +149,6 @@ This project was developed as part of a hackathon focused on Aviation Data Scien
 
 --Sheha Chauhan
 
-### 👨‍💻 Built by:
-- [Your Name] — Data Science & AI/ML Enthusiast, VIT Bhopal
-
-> Add more team members if applicable
-
----
-
 ## 📜 License
 
 This project is open-source under the [MIT License](LICENSE).
